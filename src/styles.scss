@@ -1,0 +1,10 @@
+/* You can add global styles to this file, and also import other style files */
+
+$bg_dark: #1D1C5A;
+body{
+    &.dark {
+        background-color: $bg_dark;
+    }
+    background-color: #CEC7C7;
+
+}
